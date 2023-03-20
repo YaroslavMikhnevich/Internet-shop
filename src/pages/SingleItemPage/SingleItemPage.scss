@@ -1,0 +1,19 @@
+.single-item-page {
+    margin-top: 40px;
+    display: flex;
+
+    &__img-block {
+        padding: 20px;
+        width: fit-content;
+
+        img {
+            height: 400px;
+        }
+    }
+
+    &__info-block {
+        width: fit-content;
+
+    }
+
+}
