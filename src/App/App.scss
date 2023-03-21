@@ -1,0 +1,29 @@
+#root{
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    position: relative;
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+
+    .btn-block{
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+}
+
+.conteiner{
+    width: 80%;
+    margin: 0 auto;}
+
+ 

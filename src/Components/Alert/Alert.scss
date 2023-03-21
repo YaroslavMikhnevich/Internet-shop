@@ -1,0 +1,16 @@
+.alert{
+    background-color: rgba(58, 96, 111, 0.9411764706);
+    position: fixed;
+    transform: translate(-50%);
+    top: 0;
+    left: 50%;
+    border-radius: 15px;
+    z-index: 15;
+
+&__message{
+    color: white;
+    text-align: center;
+    padding: 10%;
+    font-size: 25px;
+}
+}
