@@ -1,0 +1,138 @@
+[
+   {
+      "name":"Jones Frontier",
+      "category":"Сноуборд",
+      "size":[
+         "152",
+         "156",
+         "159",
+         "162"
+      ],
+      "price":"21 252",
+      "id":"12345",
+      "color":"blue",
+      "url":"https://unisport.ua/content/images/41/680x1479l80mc0/snoubord-jones-frontier-156-sm-57494199010791.webp"
+   },
+   {
+      "name":"Jones Stratos FW 21-22",
+      "category":"Сноуборд",
+      "size":[
+         "156",
+         "159",
+         "162"
+      ],
+      "price":"24 357",
+      "id":"12346",
+      "color":"black",
+      "url":"https://unisport.ua/content/images/8/684x1505l80mc0/snoubord-jones-stratos-fw-21-22-156-cm-37284141552079.webp"
+   },
+   {
+      "name":"Jones Aviator 2.0 (JNS J.22.SNM.AVI.XX.159w.1)",
+      "category":"Сноуборд",
+      "size":[
+         "152",
+         "156",
+         "159",
+         "162"
+      ],
+      "price":"23 097",
+      "id":"12347",
+      "color":"black",
+      "url":"https://unisport.ua/content/images/43/761x1541l80mc0/snoubord-jones-aviator-2.0-159-cm-wide-89366462178528.webp"
+   },
+   {
+      "name":"Santa Cruz Sigma White/Black S/M(р)",
+      "category":"Кріплення для сноуборду",
+      "size":"",
+      "price":"4 900",
+      "id":"12348",
+      "color":"white",
+      "url":"https://unisport.ua/content/images/32/703x727l80mc0/kreplenie-dlya-snouborda-santa-cruz-sigma-yellow-black-l-xlr-11731-56822404911785.webp"
+   },
+   {
+      "name":"Burton MISSION SMALLS'21 black L",
+      "category":"Кріплення для сноуборду",
+      "size":"",
+      "price":"5 669",
+      "id":"12349",
+      "color":"black",
+      "url":"https://unisport.ua/content/images/38/471x473l80mc0/kreplenie-dlja-snouborda-burton-mission-smalls21-black-l-74400816016455.webp"
+   },
+   {
+      "name":"NOW Drive, Black (NW W.22.BNM.DRI.BK.4L.1)",
+      "category":"Кріплення для сноуборду",
+      "size":"",
+      "price":"17 598",
+      "id":"1234710",
+      "color":"black",
+      "url":"https://unisport.ua/content/images/30/700x700l80mc0/kreplenie-now-drive-black-44644597093083.webp"
+   },
+   {
+      "name":"Mindless Core Pintail red-gum (ML7500-RG)",
+      "category":"Лонгборд",
+      "size":"",
+      "price":"8 946",
+      "id":"123411",
+      "color":"red-gum",
+      "url":"https://unisport.ua/content/images/46/900x900l80mc0/longbord-mindless-core-pintail-red-gum-47795-95180984902978.webp"
+   },
+   {
+      "name":"Tempish BOHEMIA (106001050)",
+      "category":"Лонгборд",
+      "size":"",
+      "price":"5 490",
+      "id":"123412",
+      "color":"black",
+      "url":"https://unisport.ua/content/images/4/695x901l80mc0/longbord-tempish-bohemia-35595445148612.webp"
+   },
+   {
+      "name":"Merida ONE-TWENTY 3000 2021",
+      "category":"Велосипед",
+      "size":[
+         "XL (Ріст від 187 см)",
+         "M (Ріст 167-183 см)",
+         "L (Ріст 177-190 см)"
+      ],
+      "price":"145 440",
+      "id":"123413",
+      "color":"red",
+      "url":"https://unisport.ua/content/images/15/1800x1043l80mc0/velosiped-merida-one-twenty-3000-m-17.5-blackglossy-race-red-2021-23074063157306.webp"
+   },
+   {
+      "name":"Specialized STATUS 140 OAKGRN/LMSTN S3",
+      "category":"Велосипед",
+      "size":[
+         "XL (Ріст від 187 см)",
+         "M (Ріст 167-183 см)",
+         "L (Ріст 177-190 см)"
+      ],
+      "price":"163 999",
+      "id":"123414",
+      "color":"black",
+      "url":"https://unisport.ua/content/images/6/920x523l80mc0/velosiped-specialized-status-140-oakgrnlmstn-s3-93722-7003-12296860219208.webp"
+   },
+   {
+      "name":" Merida REACTO 7000-E",
+      "category":"Велосипед",
+      "size":[
+         "XL (Ріст від 187 см)",
+         "M (Ріст 167-183 см)",
+         "L (Ріст 177-190 см)"
+      ],
+      "price":"189 160",
+      "id":"123415",
+      "color":"black",
+      "url":"https://unisport.ua/content/images/17/1800x1151l80mc0/velosiped-merida-reacto-7000-e-s52-glossy-blackmatt-black-2021-99206771598111.webp"
+   },
+
+   {
+      "name":" BURTON RULER BOA 2022",
+      "category":"Черевики",
+      "price":"8 500",
+      "id":"203171",
+      "color":"black",
+      "url":"https://extremstyle.ua/storage/products/styles/card_big/burton-nw-22-08-925.jpg"
+   }
+]
+
+
